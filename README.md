@@ -24,3 +24,7 @@ The application consists of the following components:
 - `App`: The main component that holds the state and provides a context to the input components.
 - `Input_one` & `Input_two`: Sibling components that consume the context provided by the App component to share data.
 - `Switch`: A toggle switch to enable or disable synchronization between the input components.
+
+## Screenshots
+
+<img width="765" alt="Screenshot 2024-03-08 at 12 40 26 AM" src="https://github.com/itsMohammedNayeem/sync-inputs/assets/127741549/fd7e882f-5af5-4835-ba89-aa8ec8343823">
